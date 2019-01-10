@@ -1,1 +1,4 @@
-# navigator
+本代码主要用于获取游览器的一些常用的信息
+对外提供browser_info和isMobile()
+isMobile()用于判断当前游览器是否在手机端
+browser_info用于获取当前游览器的基本信息，包括onLine，language，appCodeName，appName，browser_type（游览器名称）
